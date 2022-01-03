@@ -1,1 +1,1 @@
-# InterviewTests
+# BMICalculator
